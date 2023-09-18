@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326100476363",
+    "project_id": "uphill-50678",
+    "storage_bucket": "uphill-50678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326100476363:android:8a2663b1ddc0524f2b164e",
+        "android_client_info": {
+          "package_name": "com.example.uphill"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLuWeWgv1Wrm-uzeblf2RhXqJtFrtWwlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
