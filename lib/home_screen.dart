@@ -64,7 +64,6 @@ class _HomePageState extends State<HomePage> {
 
       double? latitude = locationData.latitude;
       double? longitude = locationData.longitude;
-      String locationText = "$latitude,  $longitude";
 
       if (kDebugMode) {
         print("Latitude: $latitude, Longitude: $longitude");
